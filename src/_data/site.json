@@ -1,8 +1,8 @@
 {
-  "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
-  "url": "https://example.com",
+  "site_name": "WBE Biolabs",
+  "title": "WBE Biolabs Information Center",
+  "description": "Everything you need to perform biotech research",
+  "url": "https://wbebiolabs.netlify.app",
   "locale": "en",
-  "author": "Anonymous"
+  "author": "Yepy Rustam"
 }
