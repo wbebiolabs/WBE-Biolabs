@@ -1,10 +1,12 @@
 ---
 title: In-silico Construction of pPICZAwbe and pPIC3.5Kwbe
-description: In-silico construction of pPICZAwbe and pPIC3.5Kwbe through the elimination of the α-factor signal peptide coding region from pPICZα A and pPIC9K, respectively. 
+description: In-silico construction of pPICZAwbe and pPIC3.5Kwbe through the
+  elimination of the α-factor signal peptide coding region from pPICZα A and
+  pPIC9K, respectively.
 date: 2022-01-17T07:25:58.471Z
 ---
-| DOCUMENT TYPE | PIC | RESEARCH PERIOD |
-| --- | --- | --- |
+| DOCUMENT TYPE              | PIC                           | RESEARCH PERIOD      |
+| -------------------------- | ----------------------------- | -------------------- |
 | THE SECOND SEMESTER REPORT | MUHAMMAD GHILDAN, YEPY RUSTAM | July – December 2021 |
 
 ### BACKGROUND
@@ -13,8 +15,8 @@ This experiment is aimed to construct pPICZAwbe and pPIC3.5Kwbe to be used for i
 
 ### OBJECTIVES
 
-- To provide an experimental design of the construction of pPICZAwbe and pPIC3.5Kwbe by removing the α-factor signal peptide sequence of pPICZα A and pPIC9K, respectively.
-- To provide the step-by-step workflow and verification methods.
+* To provide an experimental design of the construction of pPICZAwbe and pPIC3.5Kwbe by removing the α-factor signal peptide sequence of pPICZα A and pPIC9K, respectively.
+* To provide the step-by-step workflow and verification methods.
 
 ### MATERIALS AND METHODS
 
@@ -34,11 +36,13 @@ Table 1. List of genes and plasmid used or designed in this study.
 
 Experimental design to construct pPICZAwbe and pPIC3.5Kwbe by removing the α-factor signal peptide coding sequence from pPICZα A and pPIC9K using the  digestion-ligation method is described in the following sections.
 
-The overlap-extension PCR (OE-PCR) method is used to amplify the desired region of plasmid template while removing the unwanted region, i.e., the α-factor signal peptide sequence. Each primer was extended with the homologous sequence to facilitate an in-vivo plasmid circularization in E. coli host cells after transformation. Therefore, the digestion and ligation steps in steps 0A02, 0A03, 0B02 and 0B03 can be be skipped by directly transform the PCR product (i.e., linear plasmid with homologous sequence at both ends) into *E. coli* host cells.
+The overlap-extension PCR (OE-PCR) method is used to amplify the desired region of plasmid template while removing the unwanted region, i.e., the α-factor signal peptide sequence. Each primer was extended with the homologous sequence to facilitate an *in-vivo* plasmid circularization in *E. coli* host cells after transformation. Therefore, the digestion and ligation steps in steps 0A02, 0A03, 0B02 and 0B03 can be be skipped by directly transform the PCR product (i.e., linear plasmid with homologous sequence at both ends) into *E. coli* host cells.
 
 #### Elimination of α-factor signal peptide coding region from pPICZα A
 
 The map of the initiating vector pPICZα A is shown in figure 1. The α-factor signal peptide sequence will be eliminated using the overlap-extension PCR (OE-PCR) method. 
+
+![Map of pPICZα A](/assets/images/posts/0a00-ppicza-a-alphafactor.png "Map of pPICZα A")
 
 Figure 1. Map of pPICZα A. The vector contains AOX1 promoter, α-factor signal peptide, Myc epitope tag, 6xHis tag, and AOX1 terminator flanking a cloning site. The α-factor signal peptide sequence is annotated in light purple.
 
@@ -58,8 +62,8 @@ NOTE: this step can be skipped and directly proceed to step 0A04: transformation
 
 The PCR product from step 0A01 harbours EcoRI restriction sites at both ends. Therefore, EcoRI digestion will produce a fragment with two overhangs as illustrated in figure 4.
 
-- Digestion of linPICZα A-xαFactor with EcoRI
-- Fragment purification using PCR clean up kit (no need to perform gel extraction).
+* Digestion of linPICZα A-xαFactor with EcoRI
+* Fragment purification using PCR clean up kit (no need to perform gel extraction).
 
 Figure 4. Digestion product of fPICZα A-xαFactor/EcoRI
 
@@ -76,6 +80,7 @@ Figure 5. Map of pPICZAwbe.
 The PCR product from step 0A01 is transformed into E. coli DH5α competent cells using the standard protocol. Homologous recombination on the PCR product will create the circular pPICZAwbe (figure 5).
 
 ##### Step 0A05 - Plasmid Integrity Verification
+
 Sequence alignment of pPICZAwbe and pPICZ A showed 3 gaps and 2 mismatches and additional XbaI restriction site at the non essential location. Therefore, it will not affect its functionality (see figure 6). In fact, the sequence is identical to pPICZ B (data not shown).
 
 Figure 6. Alignment of pPICZAwbe and pPICZ A
@@ -152,4 +157,4 @@ Primers P04-57-12_5-AOX1 or P04-11-10_3-end_AOX1 flanking the modified sequence 
 
 ### CONCLUSIONS AND FUTURE DIRECTIONS
 
-The laboratory experiment of this study is yet to be performed. Therefore, the suggested method will be evaluated based on the experimental results. The OE-PCR proposed in this experimental design is much simpler and more straightforward than the conventional digestion-ligation cloning method and can be utilized for the deletion of a segment from or insertion of a short sequence into a plasmid. 
+The laboratory experiment of this study is yet to be performed. Therefore, the suggested method will be evaluated based on the experimental results. The OE-PCR proposed in this experimental design is much simpler and more straightforward than the conventional digestion-ligation cloning method and can be utilized for the deletion of a segment from or insertion of a short sequence into a plasmid.
