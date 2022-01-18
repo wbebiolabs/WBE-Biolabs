@@ -3,9 +3,9 @@ title: IN-SILICO CONSTRUCTION OF pPICZAwbe and pPIC3.5Kwbe
 description: In-silico construction of pPICZAwbe and pPIC3.5Kwbe through the elimination of the α-factor signal peptide coding region from pPICZα A and pPIC9K, respectively. 
 date: 2022-01-17T07:25:58.471Z
 ---
-| DOCUMENT TYPE | THE SECOND SEMESTER REPORT |
-| PIC | MUHAMMAD GHILDAN, YEPY RUSTAM |
-| RESEARCH PERIOD | July – December 2021 |
+| DOCUMENT TYPE | PIC | RESEARCH PERIOD |
+| --- | --- | --- |
+| THE SECOND SEMESTER REPORT | MUHAMMAD GHILDAN, YEPY RUSTAM | July – December 2021 |
 
 ### BACKGROUND
 
