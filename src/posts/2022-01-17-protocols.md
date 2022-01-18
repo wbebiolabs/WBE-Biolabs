@@ -1,5 +1,5 @@
 ---
-title: *In-silico* Construction of pPICZAwbe and pPIC3.5Kwbe
+title: In-silico Construction of pPICZAwbe and pPIC3.5Kwbe
 description: In-silico construction of pPICZAwbe and pPIC3.5Kwbe through the elimination of the α-factor signal peptide coding region from pPICZα A and pPIC9K, respectively. 
 date: 2022-01-17T07:25:58.471Z
 ---
