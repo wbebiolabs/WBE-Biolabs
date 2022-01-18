@@ -8,6 +8,9 @@ layout: layouts/base.ejs
     <div class="text-center text-sm mb-8">
       <%= this.dateFns.format(new Date(date), 'LLLL d, yyyy') %>
     </div>
+    <div class="text-center text-sm mb-8">
+      <%/= description %>
+    </div>
   </header>
 
   <section class="content"><%- content %></section>
