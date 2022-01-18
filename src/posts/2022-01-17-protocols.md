@@ -72,7 +72,7 @@ The PCR product from step 0A01 harbours *EcoR*I restriction sites at both ends. 
 
 |*Figure 4. Digestion product of fPICZα A-xαFactor/*EcoR*I*|
 | --- |
-|![Digestion product of fPICZα A-xαFactor/*EcoR*I](/assets/images/posts/0A02-fPICZαA-xαFactor_*EcoR*I.png "Digestion product of fPICZα A-xαFactor/*EcoR*I")|
+|![Digestion product of fPICZα A-xαFactor/*EcoR*I](/assets/images/posts/0A02-fPICZαA-xαFactor_EcoRI.png "Digestion product of fPICZα A-xαFactor/*EcoR*I")|
 
 
 ##### Step 0A03 - Self ligation of fPICZα A-xαFactor/*EcoR*I
