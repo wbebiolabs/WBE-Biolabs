@@ -44,17 +44,19 @@ The map of the initiating vector pPICZα A is shown in figure 1. The α-factor s
 
 ![Map of pPICZα A](/assets/images/posts/0a00-ppicza-a-alphafactor.png "Map of pPICZα A")
 
-Figure 1. Map of pPICZα A. The vector contains AOX1 promoter, α-factor signal peptide, Myc epitope tag, 6xHis tag, and AOX1 terminator flanking a cloning site. The α-factor signal peptide sequence is annotated in light purple.
+*Figure 1. Map of pPICZα A. The vector contains AOX1 promoter, α-factor signal peptide, Myc epitope tag, 6xHis tag, and AOX1 terminator flanking a cloning site. The α-factor signal peptide sequence is annotated in light purple.*
 
 ##### Step 0A01 - Amplification of pPICZα A
 
 Primers P15-AE-21_pPICZAwbe-F and P15-AF-21_pPICZAwbe-R are used to amplify the plasmid region by excluding the α-factor signal peptide coding sequence as illustrated in figure 2. 
 
-Figure 2. Positions of P15-AE-21_pPICZAwbe-F and P15-AF-21_pPICZAwbe-R in pPICZα A.
+![Positions of P15-AE-21_pPICZAwbe-F and P15-AF-21_pPICZAwbe-R in pPICZα A](/assets/images/posts/0A00-pPICZaA-primers.png "Positions of P15-AE-21_pPICZAwbe-F and P15-AF-21_pPICZAwbe-R in pPICZα A")
+*Figure 2. Positions of P15-AE-21_pPICZAwbe-F and P15-AF-21_pPICZAwbe-R in pPICZα A.*
 
 The PCR will produce a 3345-bp linear pPICZα A plasmid without the α-factor signal peptide coding sequence. A 17-bp homologous sequence is present in both ends of the product (see figure 3).
 
-Figure 3. linPICZα A-xαFactor = PCR product of pPICZa A lacking a-factor signal sequence (size = 3,345 bp). The product contains EcoRI sites at both ends.
+![linPICZα A-xαFactor = PCR product of pPICZa A lacking a-factor signal sequence (size = 3,345 bp). The product contains EcoRI sites at both ends.](/assets/images/posts/0A01-pPICZaA-PCRproduct.png "linPICZα A-xαFactor")
+*Figure 3. linPICZα A-xαFactor = PCR product of pPICZa A lacking a-factor signal sequence (size = 3,345 bp). The product contains EcoRI sites at both ends.*
 
 ##### Step 0A02 - Digestion of linPICZα A-xαFactor with EcoRI
 
