@@ -11,7 +11,7 @@ date: 2022-01-17T07:25:58.471Z
 
 ### BACKGROUND
 
-This experiment is aimed to construct pPICZAwbe and pPIC3.5Kwbe to be used for intracellular expression of *P. pastoris* transporter genes by removing the α-factor signal peptide sequence of pPICZα A and pPIC9K, respectively. The suggested method is based on the overlap-extension PCR (OE-PCR) through the amplification of the initial plasmids using the high-fidelity polymerase and a pair of primers designed to eliminate the α-factor signal peptide coding region while adding a short homologous sequence to both PCR product ends. The resulting linearized plasmids harboring a short homologous sequence at both ends is then directly transformed into E. coli DH5α competent cells to allow for homologous recombination to form a circular plasmid in vivo. Alternatively, the PCR product can be digested with EcoRI and self-religated using T4 DNA Ligase. The resulting plasmids are pPICZAwbe and pPIC3.5Kwbe having the sequence identical to the pPICZ B and pPIC3.5K, respectively. 
+This experiment is aimed to construct pPICZAwbe and pPIC3.5Kwbe to be used for intracellular expression of *P. pastoris* transporter genes by removing the α-factor signal peptide sequence of pPICZα A and pPIC9K, respectively. The suggested method is based on the overlap-extension PCR (OE-PCR) through the amplification of the initial plasmids using the high-fidelity polymerase and a pair of primers designed to eliminate the α-factor signal peptide coding region while adding a short homologous sequence to both PCR product ends. The resulting linearized plasmids harboring a short homologous sequence at both ends is then directly transformed into *E. coli* DH5α competent cells to allow for homologous recombination to form a circular plasmid in vivo. Alternatively, the PCR product can be digested with *EcoR*I and self-religated using T4 DNA Ligase. The resulting plasmids are pPICZAwbe and pPIC3.5Kwbe having the sequence identical to the pPICZ B and pPIC3.5K, respectively. 
 
 ### OBJECTIVES
 
@@ -20,17 +20,17 @@ This experiment is aimed to construct pPICZAwbe and pPIC3.5Kwbe to be used for i
 
 ### MATERIALS AND METHODS
 
-The annotated DNA sequence of *Pichia pastoris* expression vectors pPICZα A and pPIC9K were obtained from [Addgene vector database](www.addgene.org). The maps of pPICZα A, and pPIC9K are shown in figure 1 and 9. The more detailed information of the plasmids used in this study is listed in table 1.
+The annotated DNA sequence of *Pichia pastoris* expression vectors pPICZα A and pPIC9K were obtained from [Addgene vector database](http://www.addgene.org). The maps of pPICZα A, and pPIC9K are shown in figure 1 and 9. The more detailed information of the plasmids used in this study is listed in table 1.
 
 Table 1. List of genes and plasmid used or designed in this study.
 | Name | Type | Description |
 | --- | --- | --- |
-| pPICZα A | Expression Vector | P. pastoris expression vector. The vector contains AOX1 promoter, α-factor signal peptide, Myc epitope tag, 6xHis tag, and AOX1 terminator flanking a cloning site. |
+| pPICZα A | Expression Vector | *P. pastoris* expression vector. The vector contains AOX1 promoter, α-factor signal peptide, Myc epitope tag, 6xHis tag, and AOX1 terminator flanking a cloning site. |
 | pPIC9K |Expression Vector |P. pastoris expression vector capable of multi-gene expression. The vector contains AOX1 promoter, α-factor signal peptide, and AOX1 terminator flanking a cloning site. |
 | pPICZAwbe | Modified Expression Vector |P. pastoris expression vector. The vector sequence is identical to pPICZ B and similar to pPICZα A but lacking the α-factor signal peptide. |
-| pPIC3.5Kwbe | Modified Expression Vector | P. pastoris expression vector capable of multi-gene expression. The vector sequence is identical to pPIC3.5K and similar to pPIC9K but lacking the α-factor signal peptide. |
+| pPIC3.5Kwbe | Modified Expression Vector | *P. pastoris* expression vector capable of multi-gene expression. The vector sequence is identical to pPIC3.5K and similar to pPIC9K but lacking the α-factor signal peptide. |
 
-*In-silico* DNA sequence manipulation and visualization was performed using [Geneious v11.1.5 software](http://www.geneious.com), which included virtual DNA cloning (restriction and ligation), PCR simulation, sequence editing, sequence alignment, *in-silico* translation, and sequence annotation. Pairwise and multiple sequence alignment was performed with Global alignment with free end gaps method using Geneious Alignment algorithm. Primers were designed using the in-fusion cloning (Takarabio). Primers’ Tm were calculated using the Geneious software with SantaLucia 1998 formula. Extension of the Primer sequence was performed manually when needed. The primers were purchased from Macrogen Inc. (South Korea).
+*In-silico* DNA sequence manipulation and visualization was performed using [Geneious v11.1.5 software](http://www.geneious.com), which included virtual DNA cloning (restriction and ligation), PCR simulation, sequence editing, sequence alignment, *in-silico* translation, and sequence annotation. Pairwise and multiple sequence alignment was performed using the global alignment with free end gaps method using Geneious Alignment algorithm. Primers were designed using the in-fusion cloning (Takarabio). Primers’ Tm were calculated using the Geneious software with SantaLucia 1998 formula. Extension of the Primer sequence was performed manually when needed. The primers were purchased from Macrogen Inc. (South Korea).
 
 ### RESULTS AND DISCUSSION
 
@@ -57,37 +57,37 @@ Primers P15-AE-21_pPICZAwbe-F and P15-AF-21_pPICZAwbe-R are used to amplify the 
 
 The PCR will produce a 3345-bp linear pPICZα A plasmid without the α-factor signal peptide coding sequence. A 17-bp homologous sequence is present in both ends of the product (see figure 3).
 
-|*Figure 3. linPICZα A-xαFactor = PCR product of pPICZa A lacking a-factor signal sequence (size = 3,345 bp). The product contains EcoRI sites at both ends.*|
+|*Figure 3. linPICZα A-xαFactor = PCR product of pPICZa A lacking a-factor signal sequence (size = 3,345 bp). The product contains *EcoR*I sites at both ends.*|
 | --- |
-|![linPICZα A-xαFactor = PCR product of pPICZa A lacking a-factor signal sequence (size = 3,345 bp). The product contains EcoRI sites at both ends.](/assets/images/posts/0A01-pPICZaA-PCRproduct.png "linPICZα A-xαFactor")|
+|![linPICZα A-xαFactor = PCR product of pPICZa A lacking a-factor signal sequence (size = 3,345 bp). The product contains *EcoR*I sites at both ends.](/assets/images/posts/0A01-pPICZaA-PCRproduct.png "linPICZα A-xαFactor")|
 
-##### Step 0A02 - Digestion of linPICZα A-xαFactor with EcoRI
+##### Step 0A02 - Digestion of linPICZα A-xαFactor with *EcoR*I
 
 NOTE: this step can be skipped and directly proceed to step 0A04: transformation.
 
-The PCR product from step 0A01 harbours EcoRI restriction sites at both ends. Therefore, EcoRI digestion will produce a fragment with two overhangs as illustrated in figure 4.
+The PCR product from step 0A01 harbours *EcoR*I restriction sites at both ends. Therefore, *EcoR*I digestion will produce a fragment with two overhangs as illustrated in figure 4.
 
-* Digestion of linPICZα A-xαFactor with EcoRI
+* Digestion of linPICZα A-xαFactor with *EcoR*I
 * Fragment purification using PCR clean up kit (no need to perform gel extraction).
 
-|*Figure 4. Digestion product of fPICZα A-xαFactor/EcoRI*|
+|*Figure 4. Digestion product of fPICZα A-xαFactor/*EcoR*I*|
 | --- |
-|![Digestion product of fPICZα A-xαFactor/EcoRI](/assets/images/posts/0A02-fPICZαA-xαFactor_EcoRI.png "Digestion product of fPICZα A-xαFactor/EcoRI")|
+|![Digestion product of fPICZα A-xαFactor/*EcoR*I](/assets/images/posts/0A02-fPICZαA-xαFactor_*EcoR*I.png "Digestion product of fPICZα A-xαFactor/*EcoR*I")|
 
 
-##### Step 0A03 - Self ligation of fPICZα A-xαFactor/EcoRI
+##### Step 0A03 - Self ligation of fPICZα A-xαFactor/*EcoR*I
 
 NOTE: this step can be skipped and directly proceed to step 0A04: transformation.
 
-Ligation of the fPICZα A-xαFactor/EcoRI fragment from step 0A02 using T4 DNA ligase will produce a 3,328 bp circularized plasmid named pPICZAwbe as shown in figure 5.
+Ligation of the fPICZα A-xαFactor/*EcoR*I fragment from step 0A02 using T4 DNA ligase will produce a 3,328 bp circularized plasmid named pPICZAwbe as shown in figure 5.
 
 |*Figure 5. Map of pPICZAwbe.*|
 | --- |
 |![Map of pPICZAwbe.](/assets/images/posts/0A03-pPICZAwbe.png "Map of pPICZAwbe.")|
 
-##### Step 0A04 - Transformation into E. coli DH5α competent cells
+##### Step 0A04 - Transformation into *E. coli* DH5α competent cells
 
-The PCR product from step 0A01 is transformed into E. coli DH5α competent cells using the standard protocol. Homologous recombination on the PCR product will create the circular pPICZAwbe (figure 5).
+The PCR product from step 0A01 is transformed into *E. coli* DH5α competent cells using the standard protocol. Homologous recombination on the PCR product will create the circular pPICZAwbe (figure 5).
 
 ##### Step 0A05 - Plasmid Integrity Verification
 
@@ -141,7 +141,7 @@ The PCR will produce a 9,019-bp linear pPIC9K plasmid without the α-factor sign
 
 NOTE: this step can be skipped and directly proceed to step 0B04: transformation.
 
-The PCR product from step 0B01 harbours EcoRI restriction sites at both ends. Therefore, EcoRI digestion will produce a fragment with two overhangs as illustrated in figure 12.
+The PCR product from step 0B01 harbours *EcoR*I restriction sites at both ends. Therefore, *EcoR*I digestion will produce a fragment with two overhangs as illustrated in figure 12.
 
 |*Figure 12. Digestion product of fPIC9K-xαFactor/BamHI*|
 | --- |
@@ -151,15 +151,15 @@ The PCR product from step 0B01 harbours EcoRI restriction sites at both ends. Th
 
 NOTE: this step can be skipped and directly proceed to step 0B04: transformation.
 
-Ligation of the fPIC9K-xαFactor/EcoRI fragment from step 0B02 using T4 DNA ligase will produce a 9,004 bp circularized plasmid named pPIC3.5Kwbe as shown in figure 13.
+Ligation of the fPIC9K-xαFactor/*EcoR*I fragment from step 0B02 using T4 DNA ligase will produce a 9,004 bp circularized plasmid named pPIC3.5Kwbe as shown in figure 13.
 
 |*Figure 13. Map of pPIC3.5Kwbe*|
 | --- |
 |![Map of pPIC3.5Kwbe](/assets/images/posts/0B03-pPIC3.5Kwbe.png "Map of pPIC3.5Kwbe")|
 
-##### Step 0B04 - Transformation into E. coli DH5α competent cells
+##### Step 0B04 - Transformation into *E. coli* DH5α competent cells
 
-The PCR product from step 0B01 is transformed into E. coli DH5α competent cells using the standard protocol. Homologous recombination on the PCR product will create the circular pPIC3.5Kwbe (figure 13).
+The PCR product from step 0B01 is transformed into *E. coli* DH5α competent cells using the standard protocol. Homologous recombination on the PCR product will create the circular pPIC3.5Kwbe (figure 13).
 
 ##### Step 0B05 - Plasmid Integrity Verification
 
