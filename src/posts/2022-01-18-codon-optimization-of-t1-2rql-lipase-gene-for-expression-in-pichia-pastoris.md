@@ -19,6 +19,6 @@ Codon optimization is performed to adapt the codon usage of a gene isolated from
 
 To design and synthesize the *Pichia pastoris* codon-optimized T1.2RQL lipase gene to improve the expression level of lipase in *P. pastoris* host cells.
 
-### THE COMPLETE REPORT
+### THE REPORT
 
-The complete report can be accessed in [Google Docs](https://docs.google.com/document/d/13HToBwQa3dJbC_TatInTsNHFaQiNxJQSMuRUGugTs30/edit?usp=sharing).
+The complete report of this project can be accessed in [Google Docs](https://docs.google.com/document/d/13HToBwQa3dJbC_TatInTsNHFaQiNxJQSMuRUGugTs30/edit?usp=sharing).
