@@ -4,11 +4,8 @@ description: In-silico construction of pPICZAwbe and pPIC3.5Kwbe through the eli
 date: 2022-01-17T07:25:58.471Z
 ---
 | DOCUMENT TYPE | THE SECOND SEMESTER REPORT |
-|---|---|
 | PIC | MUHAMMAD GHILDAN, YEPY RUSTAM |
-|---|---|
 | RESEARCH PERIOD | July – December 2021 |
-|---|---|
 
 ### BACKGROUND
 
