@@ -11,3 +11,5 @@ eleventyNavigation:
 >>>>>>> 4181242b8d12cbb536090703ef5393bfe2fbe8b8
 ---
 List of Lab experiment protocols
+
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
