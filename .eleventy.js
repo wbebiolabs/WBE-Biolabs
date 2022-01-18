@@ -2,6 +2,7 @@ const htmlmin = require('html-minifier');
 const dateFns = require('date-fns');
 const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -41,6 +42,8 @@ module.exports = function (eleventyConfig) {
 
     return content;
   });
+
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   return {
     dir: { input: 'src', output: '_site', data: '_data' },
