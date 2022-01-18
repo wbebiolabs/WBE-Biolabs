@@ -13,7 +13,7 @@ a:hover {
 @tailwind utilities;
 
 .content {
-  @apply tracking-wider leading-8 text-lg;
+  @apply tracking-wider leading-8 text-lg-justify;
 }
 
 .content p {
