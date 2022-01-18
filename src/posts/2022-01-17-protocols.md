@@ -67,7 +67,10 @@ The PCR product from step 0A01 harbours EcoRI restriction sites at both ends. Th
 * Digestion of linPICZα A-xαFactor with EcoRI
 * Fragment purification using PCR clean up kit (no need to perform gel extraction).
 
-Figure 4. Digestion product of fPICZα A-xαFactor/EcoRI
+|*Figure 4. Digestion product of fPICZα A-xαFactor/EcoRI*|
+| --- |
+|![Digestion product of fPICZα A-xαFactor/EcoRI](/assets/images/posts/0A02-fPICZαA-xαFactor_EcoRI.png "Digestion product of fPICZα A-xαFactor/EcoRI")|
+
 
 ##### Step 0A03 - Self ligation of fPICZα A-xαFactor/EcoRI
 
